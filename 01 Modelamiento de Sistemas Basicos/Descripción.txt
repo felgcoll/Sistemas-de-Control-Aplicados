@@ -1,0 +1,2 @@
+Se describen dos diferentes tipos de Sistema masa-resorte-amortiguador. El sistema
+sencillo consta de una sola masa en su configuración, mientras que el sistema complejo consta del uso de dos masas en su configuración.
